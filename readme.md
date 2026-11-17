@@ -241,5 +241,3 @@ Project Completed for m1 batch in Pune (Offline),
 Project Completed for m2 batch in Pune (Offline),
 Project Completed for e2 batch in Pune (Offline),!!
 Github webhook completed in Pune !
-:-D
-/_ \
